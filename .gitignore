@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+toy_data/
+*.csv
+.DS_Store
